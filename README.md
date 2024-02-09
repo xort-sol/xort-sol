@@ -4,7 +4,7 @@
 <br/>
 
 
-<h2 align="center"> Introducing a code-sorcerer from the world of web development! 🧙‍♂💻 </h2>
+<h2 align="center"> Experienced web developer and coder crafting digital solutions! 🧙‍♂💻 </h2>
 <br/>
 
 <div align="center">
