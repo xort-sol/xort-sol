@@ -9,11 +9,11 @@
 
 <div align="center">
 
-🔭 I'm currently working on *Front-end Web Development*
+🔭 I'm currently working on *Full Stack Web Development*
 
-🌱 I'm currently learning on *JS, React.JS*
+🌱 I'm currently learning on *Data Science*
 
-💬 Ask me about *JS, React.JS, Wordpress Development....or any other thing [here](https://xort-sol.github.io/Profolio/)*
+💬 Ask me about *JS, React.JS,Angular, Express, Node.js ....or any other thing [here](https://xort-sol.github.io/Profolio/)*
 
 ⚡ Fun fact *I turn coffee into code!*
 
@@ -22,7 +22,7 @@
 <a href=" ">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/syed-nofel/">
+<a href="[https://www.linkedin.com/in/syed-nofel/](https://www.linkedin.com/in/muhammad-bilal-0a831b225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
 </a>
 </div>
