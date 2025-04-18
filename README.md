@@ -13,16 +13,16 @@
 
 🌱 I'm currently learning on *Data Science*
 
-💬 Ask me about *JS, React.JS,Angular, Express, Node.js
+💬 My Portfolio Projects about React.JS, Express, Node.js
 
-https://kipp-ai.com/
-https://egoapp.fr/
-https://accelerator-five.vercel.app/
-https://www.vocs.ai/
-https://ffs-boys-school-website-frontend-if35.vercel.app/
-https://rental-mate-frontend.vercel.app/
-https://next-js-project1-wxmi.vercel.app/
-https://tiers-frontend.vercel.app/ 
+https://kipp-ai.com/ <br/>
+https://egoapp.fr/ <br/>
+https://accelerator-five.vercel.app/ <br/>
+https://www.vocs.ai/ <br/>
+https://ffs-boys-school-website-frontend-if35.vercel.app/ <br/>
+https://rental-mate-frontend.vercel.app/ <br/>
+https://next-js-project1-wxmi.vercel.app/ <br/>
+https://tiers-frontend.vercel.app/ <br/>
 
 ⚡ Fun fact *I turn coffee into code!*
 
